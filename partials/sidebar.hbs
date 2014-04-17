@@ -1,0 +1,21 @@
+<header class="sidebar">
+	{{#if @blog.logo}}<a class="logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="{{@blog.title}}" /></a>{{/if}}
+	
+	<h1 class="title"><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
+	
+	<p>{{@blog.description}}</p>
+	
+	<ul class="sidebar-nav">
+		<li class="sidebar-nav-item">
+			<a href="/">Home</a>
+		</li>
+		<li class="sidebar-nav-item">
+			<a href="{{@blog.url}}/about">About</a>
+		</li>
+	</ul>
+
+	
+	<footer class="sidebar-footer">
+		&copy; {{date format='YYYY'}} {{@blog.title}}. CC-BY-SA. Powered by <a href="http://ghost.org" target="_blank">Ghost</a>. <a href="http://github.com/kathyqian/crisp" target="_blank">Crisp</a> theme by <a href="http://kathyqian.com" target="_blank">Kathy Qian</a>.
+	</footer>
+</header>

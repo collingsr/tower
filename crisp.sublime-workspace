@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "default.hbs",
+			"settings":
+			{
+				"buffer_size": 2006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "package.json",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/heidi/package.json",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/casper.sublime-project",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/package.json",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/page.hbs",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/assets/css/screen.css",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/index.hbs",
+		"/Users/Ghanima/Documents/Website/ghost-0.4.2/content/themes/friendly/default.hbs",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Usability/staff.md",
+		"/Users/Ghanima/Downloads/dropplets-1.6.2.6/dropplets-1.6.2.6/README.md",
+		"/Users/Ghanima/Documents/Website/PicoO/themes/default/style.css",
+		"/Users/Ghanima/Documents/Website/PicoO/config.php",
+		"/Users/Ghanima/Documents/Website/PicoO/content/index.md",
+		"/Users/Ghanima/Dropbox/Jobs/thehousingpost.rtf",
+		"/Users/Ghanima/Documents/this is the apartments post.md",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/themes/default/style.css",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/README.md",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/index.php",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/content/sub/page.md",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/content/sub/index.md",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/content/index.md",
+		"/Users/Ghanima/Downloads/Pico-master/Pico-master/config.php",
+		"/Users/Ghanima/Downloads/anchor-cms-0.9.2/anchor-cms-0.9.2/themes/default/article.php",
+		"/Users/Ghanima/Dropbox/Jobs/hoopla",
+		"/Users/Ghanima/Downloads/newbooks/newbooks/README.txt",
+		"/Users/Ghanima/Documents/Website/swtolib-hub/css/one-page-wonder.css",
+		"/Users/Ghanima/Downloads/leaf_background.jpg",
+		"/Users/Ghanima/Documents/Website/swtolib-hub/entrepreneurship.html",
+		"/Users/Ghanima/Documents/Website/swtolib-hub/index.html",
+		"/Users/Ghanima/Documents/budgettalk",
+		"/Users/Ghanima/Documents/Website/Tumblr/ultrazen-stripped.html",
+		"/Users/Ghanima/Documents/Website/Tumblr/ultrazen.css",
+		"/Users/Ghanima/Documents/Website/Tumblr/astronaut-stripped.html",
+		"/Users/Ghanima/Documents/Website/Tumblr/astronaut.css",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ghanima/Documents/Website/Tumblr/trial.html",
+		"/Users/Ghanima/Documents/Website/Tumblr/optica.html",
+		"/Users/Ghanima/Dropbox/ref.txt",
+		"/Users/Ghanima/public_html/junk.txt",
+		"/Users/Ghanima/public_html/index.html",
+		"/Volumes/Git 1.9.0 Snow Leopard Intel Universal/README.txt",
+		"/Users/Ghanima/Documents/Ew, malware!: Why public computers at libraries ar",
+		"/Users/Ghanima/Documents/kiyo-chin.md",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Archives/outline.txt",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Scott/askaquestion.html",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Frost/askaquestion.html",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Scott/outline.txt",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Bronfman/askaquestion.html",
+		"/Users/Ghanima/Library/Application Support/Yummy FTP/Remote Edits/kappa.library.yorku.ca Edits/BBL_HP_SB.pdf/BBL_HP_SB.pdf",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/Maps/askaquestion.html",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/SMIL/askaquestion.html",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Branches/ASC/askaquestion.html",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Ask a Librarian/Draft",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/projects.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/index.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/agenda.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/resources.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/registration.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/contact.html",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/css/main.css",
+		"/Users/Ghanima/Documents/Work/steaciehackfest/css/topbar-total.css",
+		"/Users/Ghanima/Documents/Work/Steacie/Web/Steering Committee Meetings/2014-02-13",
+		"/Users/Ghanima/Dropbox/steaciehackfest/index.html",
+		"/Users/Ghanima/Dropbox/steaciehackfest/resources.html",
+		"/Users/Ghanima/Dropbox/steaciehackfest/agenda.html",
+		"/Users/Ghanima/Dropbox/steaciehackfest/css/main.css",
+		"/Users/Ghanima/Dropbox/steaciehackfest/registration.html",
+		"/Users/Ghanima/Dropbox/steaciehackfest/contact.html",
+		"/Users/Ghanima/Dropbox/steaciehackfest/projects.html",
+		"/Users/Ghanima/Documents/Website/Victor2/index.html",
+		"/Users/Ghanima/Downloads/1p.txt",
+		"/Users/Ghanima/Documents/Jobs/2014/1p.md",
+		"/Users/Ghanima/Documents/Website/Victor2/main.css",
+		"/Users/Ghanima/Documents/Website/Victoria/Theme/index.html",
+		"/Users/Ghanima/Documents/Website/Victoria/Theme/assets/css/bootstrap.css",
+		"/Users/Ghanima/Documents/Website/Victoria/Theme/assets/css/main.css",
+		"/Users/Ghanima/Downloads/kelvin/Theme/index.html",
+		"/Users/Ghanima/Downloads/kelvin/Theme/assets/css/main.css",
+		"/Users/Ghanima/Documents/Jobs/2014/jobqualifications.md",
+		"/Users/Ghanima/Documents/Jobs/2014/interview questions.txt",
+		"/Users/Ghanima/Documents/Website/FootnotePlus/index.html",
+		"/Users/Ghanima/Documents/Website/Victor/index.html",
+		"/Users/Ghanima/Downloads/kelvin.zip",
+		"/Users/Ghanima/Documents/1p.md",
+		"/Users/Ghanima/Downloads/Victoria/Theme/assets/css/bootstrap.css",
+		"/Users/Ghanima/Downloads/Victoria/Theme/index.html",
+		"/Users/Ghanima/Downloads/Victoria/Theme/assets/css/main.css",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/2014-01-23 mtg",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Bronfman/BBL OUTLINE.html",
+		"/Users/Ghanima/Documents/jobqualifications.md",
+		"/Users/Ghanima/Documents/kurobas-hospital",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/agenda.html",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/contact.html",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/index.html",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/registration.html",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/resources.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/ASC/SPCOL ARCHIVES 2013-11-07.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/ASC/mtg 2013-12-13.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/ASC/askaquestion.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Bronfman/askaquestion.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Maps/askaquestion.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Frost/askaquestion.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/How Tos/Chem 3071/Tutorial.txt",
+		"/Users/Ghanima/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Ghanima/Documents/interview questions.txt",
+		"/Users/Ghanima/Documents/GIFTING 2013.markdown",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/bestpractises.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Maps/port 2013-12-20.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Maps/Website Migration Maps Nov2013.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Steacie/Port.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Steacie/Available Software.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Steacie/Available Software.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/SMIL/PORT 2013-12-18.txt",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/css/main.css",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/Ghanima/Documents/Performative Ontology.txt",
+		"/Users/Ghanima/Documents/* Work/steaciehackfest/css/topbar-total.css",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/ASC/mtg 2013-12-13",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Branches/Port_Frost.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Web/Steacie/Redesign.txt",
+		"/Users/Ghanima/Documents/* Work/Steacie/Hackfest/topbar-total.html",
+		"/Users/Ghanima/Documents/* Work/Steacie/Hackfest/topbar-total.css",
+		"/Users/Ghanima/Documents/* Work/Steacie/Hackfest/main.css",
+		"/Users/Ghanima/Documents/* Work/Steacie/Hackfest/york-topbar2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pagination",
+			"8.  Pagination",
+			"●",
+			"○",
+			"transparent",
+			"header",
+			"a:hover",
+			".navbar-inverse .navbar-nav > li > a:hover",
+			"width",
+			"#43bcb4",
+			"a:active",
+			"a:link",
+			"{color:Dividers}",
+			"{color:Meta}",
+			"block:Posts",
+			"block:PermalinkPage",
+			"block:Date",
+			"IfDisqusShortname",
+			"block:Posts",
+			"logo",
+			"img-responsive",
+			"col-lg-6",
+			"h4",
+			"contact",
+			"yib11yorklogo",
+			"ul",
+			"button",
+			"slide",
+			"quick-links",
+			"quicklinks",
+			"style=\"padding-bottom: 1em;\"",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#bfbfbf",
+			"{color:Dividers}",
+			"#000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "default.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1948
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "crisp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
