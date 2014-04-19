@@ -1,6 +1,6 @@
-<!doctype html>
+<!DOCTYPE html>
 
-<html lang="en">	
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">	
 
 	<head>
 	    {{! Document Settings }}
@@ -15,9 +15,9 @@
 	    <meta name="description" content="{{meta_description}}" />
 	    
 	    {{! Styles }}
-	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="{{asset '/styles/crisp.css'}}">
+	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,300,700' rel='stylesheet' type='text/css' />
+		<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css' />
+		<link rel="stylesheet" type="text/css" href="{{asset "/styles/tower.css"}}" />
 		<link rel="shortcut icon" href="{{@blog.logo}}"/>
 	    
 	    {{! Responsive Meta Tags }}
@@ -36,15 +36,12 @@
 
 	<body class="{{body_class}}">
 
-{{> sidebar}}
+		{{> sidebar}}
 
-		<main id="content">
+		{{{body}}}
 
-			{{{body}}}
+		{{ghost_foot}}
 
-		</main>
-
-	{{ghost_foot}}
 
 	</body>
 
