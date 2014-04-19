@@ -66,8 +66,9 @@ section .post-tags a {
 }
 
 /* POST & PAGE - METADATA */
-article div.post-date {
-	color:#888;     
+article .post-date {
+	color:#888;
+	margin-top: 2em;     
 }
 
 article .post-tags {
@@ -105,11 +106,6 @@ h3 .post-title {
 	margin-top: 0.15em;
 	padding-bottom: 0.2em;
 	border-bottom: 1px solid #eee;
-}
-
-/* FRONT PAGE - TAG */
-
-.tag-title {
 }
 
 /* POST & PAGE */

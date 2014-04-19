@@ -1,7 +1,13 @@
 {{!< default}}
+
 {{#post}}
+
 <article id="{{id}}" class="{{post_class}}">
+
 	<h1 class="post-title">{{title}}</h1>
 	{{{content}}}
+
+<div class="post-date">Last Updated: {{date published_at format='MMMM DD, YYYY'}}</div> 
 </article>
+
 {{/post}}
